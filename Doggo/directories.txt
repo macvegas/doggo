@@ -1,0 +1,9 @@
+/usr/local/share/Cassandra-Client
+/usr/local/share/Cassandra-Client/ruby_probes
+/
+/etc/cassandra/default.conf
+/usr/local/share/Cassandra-Client/java
+/etc/pki/ca-trust/extracted/java
+/usr/lib/Doggo
+/root
+/usr/lib/doggo/Doggo

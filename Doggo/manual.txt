@@ -1,0 +1,13 @@
+
+	Doggo is a good boy ! 
+	use : goto file/directory
+
+		Level search: [-lvl] number
+			restricts the search to specific level of directories. 0 is current directory, 1 is parent directory, etc.
+		Memory of goback: [-mem] number
+			change the memory of the good boy! Doggo will list the number of directories you want.
+		partial name search: goto '[*]file[*]'
+			don't forget the single-quotes, or doggo wont be a good boy. Stars stand for the missing part of the name. (facultatives)
+
+	use : goback
+
