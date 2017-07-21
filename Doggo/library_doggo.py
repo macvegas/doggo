@@ -1,7 +1,6 @@
 import sys,os
 from subprocess import call
 import readline
-#nom d'un petard !
 # function searching for a file and throwing back a list of possible paths
 workingPath=os.environ.get('DOGGO_PATH')
 # displayType= False
