@@ -15,7 +15,7 @@ def search(file,option=None,optionValue=None):
 	#check if there is an option, if not, basic goto
 	if (option == None):
 
-		sortie=os.popen("find / -iname \""+file+"\"", "r").read()
+		sortie=os.popen("find / -iname \""+file+"\" 2>/dev/null", "r").read()
 
 	#if option is -lvl, check if its value is a integer, if it is not, acts like doggo didn't find anything
 	elif (option == "-lvl"):
