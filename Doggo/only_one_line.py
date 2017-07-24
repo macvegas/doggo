@@ -35,7 +35,7 @@ while (i>-longueur):
 
 # history rectriction to X paths
 i=0
-NumberOfSavedPaths=15
+NumberOfSavedPaths=5
 longueur=len(lineList)
 surplus=longueur-NumberOfSavedPaths
 if (surplus>0):
